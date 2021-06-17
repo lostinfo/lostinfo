@@ -1,4 +1,4 @@
-### Hi there 👋
+### 啥也不是，就这？
 
 <!--
 **lostinfo/lostinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
